@@ -11,9 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 * This package is supported for *Linux* operating systems.  The package has been tested on the following systems:
 ```
    Linux: CentOS Linux release 7.8.2003 (Core)
-   Linux: Red Hat Enterprise Linux WS release 4 (Nahant Update 5)
    Linux: Ubuntu 18.04.4 LTS
 ```
+   Dependencies: GLIBC version 2.14 or higher.
 * Perl 5 interpreter or higher is required.
    * [Installation instruction](https://learn.perl.org/installing/)
    * [Perl download](https://www.perl.org/get.html)
