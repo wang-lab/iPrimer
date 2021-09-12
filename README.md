@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
    Linux: Red Hat Enterprise Linux WS release 4 (Nahant Update 5)
    Linux: Ubuntu 18.04.4 LTS
 ```
-* Perl 5 interpreter or higher on a Red-Hat compatible Linux system is required.
+* Perl 5 interpreter or higher is required.
    * [Installation instruction](https://learn.perl.org/installing/)
    * [Perl download](https://www.perl.org/get.html)
 * Following tool packages placed in main folder are also required.
@@ -68,4 +68,4 @@ If the file is read in correctly, the following output files will be generated i
 ```
 ## License & copyright
 
-License under the [GNU public library](LICENSE)
+iPrimer is distributed under [Apache 2.0 with Commons Clause](LICENSE) license.

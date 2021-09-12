@@ -1,4 +1,4 @@
-CC = cc -O 
+CC = gcc -O 
 
 .c.o :
 	$(CC) -c $<

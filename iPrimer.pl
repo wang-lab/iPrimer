@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-# This software tool is distributed under the “Commons Clause” License Condition v1.0 and GNU GENERAL PUBLIC LICENSE Version 3
+# This software tool is distributed under Apache 2.0 with Commons Clause license.
 # Copyrights @ University of Illinois at Chicago
 
 use strict;
